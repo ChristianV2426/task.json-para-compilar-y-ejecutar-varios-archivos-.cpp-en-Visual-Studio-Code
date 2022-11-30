@@ -1,4 +1,4 @@
-# task.json-para-compilar-y-ejecutar-varios-archivos-.cpp-en-Visual-Studio-Code
+# Archivo task.json para compilar y ejecutar varios archivos .cpp en Visual Studio Code
 
 Configuración del archivo task.json en mi máquina para poder compilar y ejecutar varios archivos .cpp en Visual Studio Code. 
 
